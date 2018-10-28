@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cplexpy.iml" filepath="$PROJECT_DIR$/.idea/cplexpy.iml" />
+      <module fileurl="file://C:/0_code/CPLEX/cplex/examples/src/python/.idea/python.iml" filepath="C:/0_code/CPLEX/cplex/examples/src/python/.idea/python.iml" />
+    </modules>
+  </component>
+</project>
